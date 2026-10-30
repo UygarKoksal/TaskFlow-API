@@ -1,6 +1,3 @@
-Proje yönergesine göre bu doküman; projenin amacını, kurguladığımız senaryoyu ve sistemin temel teknik özelliklerini özetleyen 1-2 sayfalık kısa bir rapor olmalıdır. GitHub repona "README.md" gibi kolayca ekleyebilmen için **Proje Tanıtım Dokümanı** taslağını hazırladım.
-
-Bunu `Proje_Tanitimi.md` (veya PDF/Word olarak) kaydedip projene dahil edebilirsin. Yine repo için profesyonel durması adına hem Türkçe hem de İngilizce versiyonunu alt alta ekliyorum:
 
 # TaskFlow - Proje Tanıtım Dokümanı
 
